@@ -1,0 +1,26 @@
+body {
+    background-color: #fbfbfb;
+}
+h1 {
+    font-size: 4em;
+    color: brown;
+}
+h2 {
+    font-size: 2em;
+    color: grey;
+    font-weight: bold;
+}
+#cabecera {
+    height: 260px;
+    background-color: #184674;
+    color: white;
+}
+#cabecera .titulo {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cabecera #logo {
+    width: 10%;
+}
